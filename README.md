@@ -1,3 +1,5 @@
+# 我购买的书籍
+
 # 《Spring Cloud与Docker微服务架构实战 第二版》1-11章配套代码
 
 * 本仓库是《Spring Cloud与Docker微服务架构实战 **第二版**》的配套代码，第一版的配套源码详见Camden分支。
@@ -22,8 +24,3 @@
 * Spring For All 社区：<http://www.spring4all.com>
 * 微信：![微信公众号](wx.jpg)
 
-**持续更新Spring Cloud、Docker相关知识**，敬请关注！！
-
-**持续更新Spring Cloud、Docker相关知识**，敬请关注！！
-
-**持续更新Spring Cloud、Docker相关知识**，敬请关注！！
